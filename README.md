@@ -15,31 +15,29 @@
 
   <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/>
 
-  <h1>
-    Hello and welcome to my GitHub, I am Alex Morgan
-  </h1>
+  <h1>Hello and welcome to my GitHub, I am Alex Morgan</h1>
 </div>
-
+  
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h3 align="center">My GitHub Statistics</h3>
+  
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=morganbanet&theme=radical" alt="morganbanet GitHub stats" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morganbanet&layout=compact&theme=radical" alt="morganbanet GitHub stats" />
 </div>
-
----
 
 ### About Me
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in the UK.
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="340"/>
 
-- :telescope: I am a fullstack developer utlizing React, Express, Node.js, and MongoDB
-- :seedling: Exploring ideas for a new portfolio and blog
-- :zap: I spend my free time watching techie videos and reading related articles
-- :mailbox: Contact me here: morganbacontact@tutanota.com
+Hi there and welcome to my GitHub profile. My name is Alex Morgan an I'm a full stack web developer, based in the UK.
 
----
+I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am fully self taught and have taken multiple bootcamps, and am always eager to learn and get hands on with new technologies.
+
+I am a highly motivated individual, and I have a constant desire to push myself to overcome new challenges. My main skills and interest lay in technology and development, and this is where I feel most fulfilled.
+
+If you would like to contact me, please do so here:<br>
+📩 morganbacontact@tutanota.com
 
 ### Main Skills:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbanet&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -51,16 +49,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
----
-
-### Profile Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=morganbanet&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganbanet&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Recent Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
