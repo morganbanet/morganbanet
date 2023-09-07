@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="175" />
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="175" />
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/morganbanet/">
@@ -26,9 +26,9 @@
 </div>
 
 ### About Me
-<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="340"/>
+<img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="340"/>
 
-Hi there and welcome to my GitHub profile. My name is Alex Morgan an I'm a full stack web developer, based in the UK.
+Hi there and welcome to my GitHub profile. My name is Alex Morgan and I'm a full stack web developer, based in the UK.
 
 I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am fully self taught and have taken multiple bootcamps, and am always eager to learn and get hands on with new technologies.
 
