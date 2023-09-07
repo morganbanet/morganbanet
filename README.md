@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/morganbanet/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="morganbacontact@tutanota.com">
+    <a href="mailto:morganbacontact@tutanota.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=tutanota&logoColor=white" alt="Tutanota Badge"/>
     </a>
     <a href="https://twitter.com/morganbanet">
