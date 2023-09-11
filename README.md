@@ -30,7 +30,7 @@
 
 Hi there and welcome to my GitHub profile. My name is Alex Morgan and I'm a full stack web developer, based in the UK.
 
-I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am fully self taught and have taken multiple bootcamps, and am always eager to learn and get hands on with new technologies.
+I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am most self taught, have read several books, and taken multiple online course. I'm always eager to learn and get hands on with new technologies.
 
 I am a highly motivated individual, and I have a constant desire to push myself to overcome new challenges. My main skills and interest lay in technology and development, and this is where I feel most fulfilled.
 
