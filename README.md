@@ -15,7 +15,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/>
 
-  <h1>Hello and welcome to my GitHub, I am Alex Morgan</h1>
+  <h1MorganBA - Full Stack Web Developer</h1>
 </div>
   
 <div align="center">
