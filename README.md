@@ -15,7 +15,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/>
 
-  <h1>MorganBA - Full Stack Web Developer</h1>
+  <h1>MorganBA, Full Stack Web Developer</h1>
 </div>
   
 <div align="center">
