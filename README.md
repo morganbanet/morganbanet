@@ -58,3 +58,19 @@ If you would like to contact me, please do so here:<br>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<hr>
+
+
+
+### Books I'm Reading / Read
+
+<div align="left">
+  <img src="https://cdn2.penguin.com.au/covers/original/9781718502703.jpg" title="Python Crash Course" alt="Python Crash Course" width="150" height="200" />
+  <img src="https://th.bing.com/th/id/R.0923ca4eded5cad749a015348bee812e?rik=DNoIQQxeO60edA&riu=http%3a%2f%2fprodimage.images-bn.com%2fpimages%2f9781801810449_p0_v1_s600x595.jpg&ehk=1P%2f4%2ftvbIVw3z58uRaXAaD2isKn1D6Wl8vg9yo70mcM%3d&risl=&pid=ImgRaw&r=0" title="Django 4 By Example" alt="Django 4 By Example" width="150" height="200" />
+  <img src="https://th.bing.com/th/id/OIP.wVCekU9SHSS-GmJJg345dwHaJl?pid=ImgDet&rs=1" title="The Road To React" alt="The Road To React" width="150" height="200" />
+  <img src="https://th.bing.com/th/id/OIP.w4-8-BKQs52mr0kmLeb4yQAAAA?pid=ImgDet&rs=1" title="Taming The State In React" alt="Taming The State In React" width="150" height="200" />
+  <img src="https://d2sofvawe08yqg.cloudfront.net/the-road-to-react-with-firebase/s_hero?1622560081" title="The Road To Firebase" alt="The Road To Firebase" width="150" height="200" />
+</div>
+
+<hr>
