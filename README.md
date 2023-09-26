@@ -63,7 +63,7 @@ If you would like to contact me, please do so here:<br>
 
 
 
-### Books I'm Reading / Read
+### Favorite Books
 
 <div align="left">
   <img src="https://cdn2.penguin.com.au/covers/original/9781718502703.jpg" title="Python Crash Course" alt="Python Crash Course" width="150" height="200" />
