@@ -15,7 +15,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/>
 
-  <h1>MorganBA, Full Stack Web Developer</h1>
+  <h1>MorganBA, Web Developer</h1>
 </div>
   
 <div align="center">
@@ -28,7 +28,7 @@
 ### About Me
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="340"/>
 
-Hi there and welcome to my GitHub profile. My name is Alex Morgan and I'm a full stack web developer, based in the UK.
+Hey and welcome to my GitHub profile. My real name is Alex and I am a web developer based in the UK.
 
 I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am most self taught, have read several books, and taken multiple online course. I'm always eager to learn and get hands on with new technologies.
 
