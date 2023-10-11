@@ -21,7 +21,7 @@
 <div align="center">
   <h3 align="center">My GitHub Statistics</h3>
   
-  img height="200" src="https://github-readme-stats-gold-nine-22.vercel.app/api?username=morganbanet&theme=radical" alt="morganbanet GitHub stats" decoding="async" loading="lazy" />
+  <img height="200" src="https://github-readme-stats-gold-nine-22.vercel.app/api?username=morganbanet&theme=radical" alt="morganbanet GitHub stats" decoding="async" loading="lazy" />
   <img height="200" src="https://github-readme-stats-gold-nine-22.vercel.app/api/top-langs/?username=morganbanet&layout=compact&theme=radical" alt="morganbanet GitHub stats" decoding="async" loading="lazy" />
 </div>
 
