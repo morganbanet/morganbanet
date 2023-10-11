@@ -13,7 +13,7 @@
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/>
+ <!-- <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/> -->
 
   <h1>MorganBA, Web Developer</h1>
 </div>
