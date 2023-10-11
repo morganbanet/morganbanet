@@ -32,7 +32,7 @@ Hey and welcome to my GitHub profile. My real name is Alex and I am a web develo
 
 I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am most self taught, have read several books, and taken multiple online course. I'm always eager to learn and get hands on with new technologies.
 
-I am a highly motivated individual, and I have a constant desire to push myself to overcome new challenges. My main skills and interest lay in technology and development and am always working to develop these further.
+I am a highly motivated individual, and I have a constant desire to push myself to overcome new challenges. My main skills and interest lay in technology and development and I am always seeking to enhance my knoweledge of them.
 
 If you would like to contact me, please do so here:<br>
 📩 morganbacontact@tutanota.com
