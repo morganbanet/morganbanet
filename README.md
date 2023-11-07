@@ -54,7 +54,7 @@ I'm currently looking for work and am immediately available. If you have any ope
 📩 contact@morganba.com <br><br><br>
 
 Many thanks, <br>
-Alex Morgan <br><br>
+Alex Morgan
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
