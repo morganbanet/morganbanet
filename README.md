@@ -28,16 +28,17 @@
 ### About Me
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="340"/>
 
-Hey and welcome to my GitHub profile. My real name is Alex and I am a web developer based in the UK.
+Hi and welcome to my GitHub profile. My name is Alex Morgan and I'm a web developer based in the UK. I have knowledge of frameworks and languages such as React, JavaScript, Express & Node.js, and MongoDB.
 
-I have knowledge in frameworks and languages such as React, JavaScript, Express/Node.js, and MongoDB. I am most self taught, have read several books, and taken multiple online course. I'm always eager to learn and get hands on with new technologies.
+I am a highly motivated individual have a constant desire to push myself to overcome new challenges and obstacles. My main skills and interests lay in technology and development and I am continuously seeking to enhance my knowledge of them. There are several areas in my life which I am eager to learn and develop.
 
-I am a highly motivated individual, and I have a constant desire to push myself to overcome new challenges. My main skills and interest lay in technology and development and I am continuously seeking to enhance my knoweledge of them.
+I'm currently looking for work and am immediately available. If you have open positions, please do contact me here: <br>
+📩 contact@morganba.com <br><br>
 
-If you would like to contact me, please do so here:<br>
-📩 morganbacontact@tutanota.com
+Many thanks, <br>
+Alex Morgan <br><br>
 
-### Things I'm Learning
+### Currently learning...
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
