@@ -5,7 +5,7 @@
     <a href="https://www.linkedin.com/in/morganbanet/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="mailto:morganbacontact@tutanota.com">
+    <a href="mailto:contact@morganba.com.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=tutanota&logoColor=white" alt="Tutanota Badge"/>
     </a>
     <a href="https://twitter.com/morganbanet">
@@ -15,15 +15,15 @@
 
   <img src="https://komarev.com/ghpvc/?username=morganbanet&style=flat-square&color=blue" alt=""/>
 
-  <h1>MorganBA, Web Developer</h1>
+  <h1>Alex Morgan, Web Developer</h1>
 </div>
   
-<div align="center">
+<!-- <div align="center">
   <h3 align="center">My GitHub Statistics</h3>
   
   <img height="200" src="https://github-readme-stats-gold-nine-22.vercel.app/api?username=morganbanet&theme=radical" alt="morganbanet GitHub stats" decoding="async" loading="lazy" />
   <img height="200" src="https://github-readme-stats-gold-nine-22.vercel.app/api/top-langs/?username=morganbanet&layout=compact&theme=radical" alt="morganbanet GitHub stats" decoding="async" loading="lazy" />
-</div>
+</div> -->
 
 ### About Me
 <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50%" height="340"/>
@@ -45,7 +45,7 @@ If you would like to contact me, please do so here:<br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootsrap" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp;
+    <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>&nbsp; -->
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
@@ -63,7 +63,7 @@ If you would like to contact me, please do so here:<br>
 
 
 
-### Books I'm Reading / Read
+<!-- ### Books I'm Reading / Read
 
 <div align="left">
   <img src="https://cdn2.penguin.com.au/covers/original/9781718502703.jpg" title="Python Crash Course" alt="Python Crash Course" width="150" height="200" />
@@ -73,4 +73,4 @@ If you would like to contact me, please do so here:<br>
   <img src="https://d2sofvawe08yqg.cloudfront.net/the-road-to-react-with-firebase/s_hero?1622560081" title="The Road To Firebase" alt="The Road To Firebase" width="150" height="200" />
 </div>
 
-<hr>
+<hr> -->
