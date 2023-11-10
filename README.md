@@ -48,7 +48,7 @@
 
 Hi and welcome to my GitHub profile. My name is Alex Morgan and I'm a web developer based in the UK. I have knowledge of frameworks and languages such as React, JavaScript, Express & Node.js, and MongoDB.
 
-I am a highly motivated individual have a constant desire to push myself to overcome new challenges. My main skills and interests lay in technology and development and I am continuously seeking to enhance my knowledge of them. There are several areas in my life which I am eager to learn and develop.
+<!-- I am a highly motivated individual have a constant desire to push myself to overcome new challenges. My main skills and interests lay in technology and development and I am continuously seeking to enhance my knowledge of them. There are several areas in my life which I am eager to learn and develop. -->
 
 I'm currently looking for work and am immediately available. If you have any open positions, please do contact me via the email linked on my profile. <br><br>
 
