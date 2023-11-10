@@ -33,7 +33,7 @@
   <!--     <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" **alt="Digital Ocean" width="40" height="40"/> -->
   </div>
 
-  <h1>Alex Morgan, Web Developer</h1>
+  <h1>Alex B. Morgan, Web Developer</h1>
 </div>
   
 <!-- <div align="center">
