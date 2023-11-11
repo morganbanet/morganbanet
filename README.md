@@ -11,7 +11,7 @@ I am open for work and immediately available. If you currently have any open pos
 
 
 Many thanks, <br>
-Alex B. Morgan
+Alex Morgan
 
 <h2>Skills</h2>
 
