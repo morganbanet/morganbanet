@@ -1,11 +1,17 @@
 <h1>Alex B. Morgan</h1>
 
-Hi and welcome to my GitHub profile. My name is Alex Morgan and I'm a web developer based in the UK. I have knowledge of frameworks and languages such as React, JavaScript, Express & Node.js, and MongoDB.
+Hi,
 
-I'm currently looking for work and am immediately available. If you have any open positions, please do contact me via the email linked on my profile. <br><br>
+Thanks for taking a look at my profile. My name is Alex Morgan and I'm a developer based in the UK, who can work on both front-end & back-end of a web application. I Have knoweldge of frameworks, libraries, and languages such as React, JavaScript, Express, Node.js, MongoDB, Vitest, React Testing Library, Cypress, and more.
+
+Feel free to take a look around my GitHub profile. I have carefully placed my best projects in their own repos with all their relevant information.
+
+I am open for work and immediately avaiable. If you currently have any open positions, please contact me via my email linked on my profile (on the left), and I will send my CV across. <br><br><br>
+
+
 
 Many thanks, <br>
-Alex B. Morgan <br><br>
+Alex B. Morgan
 
 <h2>Skills</h2>
 
