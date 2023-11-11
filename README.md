@@ -4,7 +4,7 @@ Hi,
 
 Thanks for taking a look at my profile. My name is Alex Morgan and I'm a developer based in the UK, who can work on both front-end & back-end of a web application. I Have knoweldge of frameworks, libraries, and languages such as React, JavaScript, Express, Node.js, MongoDB, Firebase, Vitest, React Testing Library, Cypress, and more.
 
-Feel free to take a look around my GitHub profile. I have carefully placed my best projects in their own repos with all their relevant information.
+Feel free to take a look around my GitHub profile. I have carefully placed my best projects in their own repos with all their relevant information, and have pinned them below.
 
 I am open for work and immediately available. If you currently have any open positions, please contact me via my email linked on my profile (on the left), and I will send my CV across. <br><br><br>
 
