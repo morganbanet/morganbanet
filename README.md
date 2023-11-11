@@ -6,7 +6,7 @@ Thanks for taking a look at my profile. My name is Alex Morgan and I'm a develop
 
 Feel free to take a look around my GitHub profile. I have carefully placed my best projects in their own repos with all their relevant information.
 
-I am open for work and immediately avaiable. If you currently have any open positions, please contact me via my email linked on my profile (on the left), and I will send my CV across. <br><br><br>
+I am open for work and immediately available. If you currently have any open positions, please contact me via my email linked on my profile (on the left), and I will send my CV across. <br><br><br>
 
 
 
