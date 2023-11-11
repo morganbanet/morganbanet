@@ -1,7 +1,4 @@
-<div>
-  <h1>Alex B. Morgan</h1>
-</div>
-
+<h1>Alex B. Morgan</h1>
 Hi and welcome to my GitHub profile. My name is Alex Morgan and I'm a web developer based in the UK. I have knowledge of frameworks and languages such as React, JavaScript, Express & Node.js, and MongoDB.
 
 I'm currently looking for work and am immediately available. If you have any open positions, please do contact me via the email linked on my profile. <br><br>
@@ -9,7 +6,7 @@ I'm currently looking for work and am immediately available. If you have any ope
 Many thanks, <br>
 Alex B. Morgan <br><br>
 
-
+<h2>Skills</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
