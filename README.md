@@ -2,7 +2,7 @@
 
 Hi,
 
-Thank you for taking a look at my profile. My name is Alex Morgan and I'm a developer based in the UK, and can work on both front-end & back-end of a web application. I have knoweldge of frameworks, libraries, and languages such as React, TypeScript, JavaScript, Express, Node.js, MongoDB, Firebase, Vitest, React Testing Library, Cypress, and more.
+Thank you for taking a look at my profile. My name is Alex Morgan and I'm a developer based in the UK, and can work on both front-end & back-end of a web application. I have knoweldge of frameworks, libraries, and languages such as React, JavaScript, Express, Node.js, MongoDB, Firebase & Firebase Admin, Vitest, React Testing Library, Cypress, and more.
 
 Feel free to take a look around my GitHub profile. I have carefully placed my best personal projects in their own repos with all their relevant information, and have pinned them below.
 
@@ -16,7 +16,7 @@ Alex Morgan
 <h2>Skills</h2>
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
