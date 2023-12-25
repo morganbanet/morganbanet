@@ -1,10 +1,8 @@
 <h1>Alex B. Morgan</h1>
 
-Hi,
+I am a web developer utilizing the React framework for front-end development, alongside other technologies such as JavaScript, Express, and MongoDB for building REST APIs. Seeking to obtain a full-time role within a company that will enable further development of my current skillset and provide exposure to new technologies.
 
-Thank you for visiting my profile. My name is Alex Morgan and I'm a developer based in the UK, and can work on both front-end & back-end of a web application. I have knoweldge of frameworks, libraries, and languages such as React, JavaScript, Express, Node.js, MongoDB, Firebase & Firebase Admin, Vitest, React Testing Library, Cypress, and more.
-
-I am open for work and immediately available. If you currently have any open positions, please contact me via the email linked on my profile and I will send my CV across to you. <br><br><br>
+I'm immediately available for work. If you currently have open positions, please contact me via the email linked on my profile. <br><br><br>
 
 
 
