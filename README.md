@@ -9,7 +9,7 @@ I'm immediately available for work. If you currently have open positions, please
 Many thanks, <br>
 Alex Morgan
 
-<h2>Skills</h2>
+<h2></h2>
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
