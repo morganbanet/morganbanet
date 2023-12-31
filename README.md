@@ -1,8 +1,8 @@
 <h1>Alex B. Morgan</h1>
 
-I am a web developer utilizing the React framework for front-end development, alongside other technologies such as JavaScript, Express, and MongoDB for building REST APIs. Seeking to obtain a full-time role within a company that will enable further development of my current skillset and provide exposure to new technologies.
+I'm an IT Specialist & Software Engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech.
 
-I'm immediately available for work. If you currently have open positions, please contact me via the email linked on my profile. <br><br><br>
+I'm currently immediately available. If you are looking to fill open positions please contact me via the email provided on my profile or CV. <br><br><br>
 
 
 
