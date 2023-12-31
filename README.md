@@ -1,4 +1,4 @@
-<h1>Alex B. Morgan</h1>
+<h1>Alex Morgan</h1>
 
 I'm an IT Specialist & Software Engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech.
 
