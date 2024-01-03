@@ -1,6 +1,6 @@
 <h1>Alex Morgan</h1>
 
-I'm an IT Specialist & Software Engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech.
+I'm a software engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech.
 
 I'm immediately available. If you are looking to fill open positions please contact me via the email linked on my profile or CV. <br><br><br>
 
