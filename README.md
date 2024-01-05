@@ -11,9 +11,9 @@ Alex Morgan
 
 <h2></h2>
 
-<b>Languages:</b> JavaScript <br>
+<b>Languages:</b> JavaScript/TypeScript, Python <br>
 <b>Front-end:</b> React, Bootstrap, Material UI, HTML, CSS <br>
-<b>Back-end:</b> Express, Node.Js, MongoDB Atlas (NoSQL), Mongoose <br>
+<b>Back-end:</b> Express, Node.Js, MongoDB Atlas (NoSQL), Mongoose, MySQL, PHP <br>
 <b>Libraries & Tools:</b> Vite, Firebase, Postman, Git, etc <br>
 
 <div>
