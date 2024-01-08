@@ -3,11 +3,13 @@
 <h1>I'm a software engineer 🛰️</h1>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300px" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node). I am currently seeking to obtain a role within a company that will support futher development of my current skillset and provide exposure to new tech. <br><br>
+As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node), and so can work front-end or back-end.
 
-As of right now, I am immediately available. If you have any open positions for a developer to join your team, contact me via the email linked on my profile. <br><br><br>
+I am currently seeking to obtain a role within a company that will support futher development of my current skillset and provide exposure to new tech. <br>
+
+As of right now, I am immediately available. If you have any open positions for an entry-level developer to join your team, don't hesitate to contact me via the email linked on my profile. <br><br><br>
 
 
 
