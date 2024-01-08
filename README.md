@@ -1,5 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Morgan&width=1000%&height=150)](https://github.com/Akshay090/svg-banners)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=morganbanet&show_icons=true&theme=radical)
+
 
 <h1>Alex Morgan</h1>
 
