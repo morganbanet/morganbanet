@@ -3,7 +3,7 @@
 <h1>I'm a software engineer 🛰️</h1>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="300px" />
 
 As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node), and so can work front-end or back-end.
 
