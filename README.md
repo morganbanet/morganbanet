@@ -7,9 +7,9 @@
 
 As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node), and so can work front-end or back-end.
 
-I am currently seeking to obtain a role within a company that will support futher development of my current skillset and provide exposure to new tech. <br>
+I am currently seeking to obtain a role within a company that will support further development of my current skillset and provide exposure to new tech. <br>
 
-As of right now, I am immediately available. If you have any open positions for an entry-level developer to join your team, don't hesitate to contact me via the email linked on my profile. <br><br>
+As of right now, I am immediately available. If you have any open positions for an entry-level developer to join your team, please don't hesitate to contact me via the email linked on my profile. <br><br>
 
 
 
