@@ -13,7 +13,7 @@
 <h1>I'm a software engineer 🛰️</h1>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="465" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="425" height="300" />
 
 I'm a software engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech. <br><br>
 
