@@ -14,10 +14,10 @@ Alex Morgan
 
 <h2></h2>
 
-<b>Languages:</b> JavaScript <br>
-<b>Front-end:</b> React, Bootstrap, Html & Css<br>
-<b>Back-end:</b> Express, Node, MongoDB, Mongoose, Firebase <br>
-<b>Libraries & Tools:</b> Vite, Postman, Git<br>
+<!-- <b>Languages:</b> JavaScript <br> -->
+<!-- <b>Front-end:</b> React, Bootstrap, Html & Css<br> -->
+<!-- <b>Back-end:</b> Express, Node, MongoDB, Mongoose, Firebase <br> -->
+<!-- <b>Libraries & Tools:</b> Vite, Postman, Git<br> -->
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp; -->
