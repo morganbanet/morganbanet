@@ -12,19 +12,19 @@
 
 <h1>I'm a software engineer 🛰️</h1>
 
-
-  <p width="200px">
-  I'm a software engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech.
-  
-  I'm immediately available. If you are looking to fill open positions please contact me via the email linked on my profile or CV. <br><br><br>
-  
-  
-  
-  Many thanks, <br>
-  Alex Morgan
-  </p>
-
+<div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+I'm a software engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech. <br><br>
+
+I'm immediately available. If you are looking to fill open positions please contact me via the email linked on my profile or CV. <br><br><br>
+
+
+
+Many thanks, <br>
+Alex Morgan
+</div>
+
 
 
 <h2></h2>
