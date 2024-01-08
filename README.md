@@ -2,10 +2,10 @@
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="195px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api?username=morganbanet&show_icons=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
+<img height=200 align="center" src="https://github-readme-stats-morganbanet.vercel.app/api?username=morganbanet&show_icons=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height="195px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api/top-langs/?username=morganbanet&layout=compact&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
+<img height=200 align="center" src="https://github-readme-stats-morganbanet.vercel.app/api/top-langs/?username=morganbanet&layout=compact&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
 </a>
   
 </div>
