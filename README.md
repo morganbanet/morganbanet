@@ -1,11 +1,14 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Morgan&width=1000%&height=150)](https://github.com/Akshay090/svg-banners)
 
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height="195px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api?username=morganbanet&show_icons=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img height="195px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api/top-langs/?username=morganbanet&layout=compact&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
 </a>
+  
+</div>
 
 <h1>Alex Morgan</h1>
 
