@@ -1,16 +1,15 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Morgan&width=1000%&height=150)](https://github.com/Akshay090/svg-banners)
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="199px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api?username=morganbanet&show_icons=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img height="199px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api/top-langs/?username=morganbanet&layout=compact&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
-</a>
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="199px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api?username=morganbanet&show_icons=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+  <img height="199px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api/top-langs/?username=morganbanet&layout=compact&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
+  </a>
 </div>
 
-<h1>Alex Morgan</h1>
+<h1>I'm a software engineer 🛰️</h1>
 
 I'm a software engineer building front & back end web applications. Currently am seeking to obtain a full-time role within a company that will support further development of my current skillset and provide exposure to new tech.
 
@@ -19,7 +18,8 @@ I'm immediately available. If you are looking to fill open positions please cont
 
 
 Many thanks, <br>
-Alex Morgan
+Alex Morgan  
+
 
 <h2></h2>
 
