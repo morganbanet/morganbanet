@@ -11,7 +11,7 @@ I am currently seeking to obtain a role within a company that will support furth
 
 As of right now, I am immediately available. If you have any open positions for a developer to join your team, please don't hesitate to contact me via the email linked on my profile.
 
-You can download my resume [here](http://tinyurl.com/bdd5tr7r) (DropBox) <br><br>
+You can download a copy of my resume [here](http://tinyurl.com/y2z5sjfr) (DropBox) <br><br>
 
 
 
