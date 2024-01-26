@@ -5,7 +5,7 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node), and so can work front-end or back-end.
+As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node), and so I am open to working on front-end or back-end.
 
 I am currently seeking to obtain a role within a company that will support further development of my current skillset and provide exposure to new tech. <br>
 
