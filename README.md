@@ -11,7 +11,7 @@ I am currently seeking to obtain a role within a company that will support furth
 
 As of right now, I am immediately available. If you have any open positions for a developer to join your team, please don't hesitate to contact me via the email linked on my profile.
 
-You can directly download a copy of my resume [here](https://dl.dropbox.com/scl/fi/v70x3rz2dj99de452620t/Alex-Morgan-CV.pdf?rlkey=bfjiqys73dfz0u80dldtrdsuu&dl=0). <br><br>
+You can directly download a copy of my resume [here](https://dl.dropbox.com/scl/fi/mr4huuaj8cdvrem0fqva3/Alex-Morgan-CV.pdf?rlkey=i6ii4oahbz66pvwq2hm2g1q8k&dl=0). <br><br>
 
 
 
