@@ -7,7 +7,12 @@
 
 Developer with knowledge of full stack web development. Bringing a strong personal background in IT (software & hardware), I seek a full time role within a company willing to provide exposure to a range of both new and long standing technologies as I undertake a part time degree in software engineering.
 
-[Download CV](https://dl.dropbox.com/scl/fi/5ntw6duu67zv8nv19chqu/Alex-Morgan-CV.pdf?rlkey=93eoy8iesjheef7bhcn5lv65o&dl=0) <br><br>
+If you have any open positions for a new developer to join your team, please contact me via phone or email. I'm available immediately.
+
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/5ntw6duu67zv8nv19chqu/Alex-Morgan-CV.pdf?rlkey=93eoy8iesjheef7bhcn5lv65o&dl=0)<br><br>
+
+Many thanks,<br>
+Alex Morgan
 </div>
 
 <h2>GitHub Statistics</h2>
