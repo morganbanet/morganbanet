@@ -5,18 +5,9 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-As a software engineer my main focus is building fullstack projects with the MERN stack (MongoDB, Express, React, Node), and so I am flexible for either front-end or back-end.
+Developer with knowledge of full stack web development. Bringing a strong personal background in IT (software & hardware), I seek a full time role within a company willing to provide exposure to a range of both new and long standing technologies as I undertake a part time degree in software engineering.
 
-I am currently seeking to obtain a role within a company that will support further development of my current skillset and provide exposure to new tech. <br>
-
-As of right now, I am immediately available. If you have any open positions for a developer to join your team, please don't hesitate to contact me via the email linked on my profile.
-
-You can directly download a copy of my resume [here](https://dl.dropbox.com/scl/fi/5ntw6duu67zv8nv19chqu/Alex-Morgan-CV.pdf?rlkey=93eoy8iesjheef7bhcn5lv65o&dl=0). <br><br>
-
-
-
-Many thanks, <br>
-Alex Morgan
+[Download CV](https://dl.dropbox.com/scl/fi/5ntw6duu67zv8nv19chqu/Alex-Morgan-CV.pdf?rlkey=93eoy8iesjheef7bhcn5lv65o&dl=0) <br><br>
 </div>
 
 <h2>GitHub Statistics</h2>
