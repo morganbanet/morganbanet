@@ -9,7 +9,7 @@ Developer with knowledge of full stack web development. Bringing a strong person
 
 If you have any open positions for a new developer to join your team, please contact me via phone or email. I'm available immediately.
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/a8s501vkhrp398vypf7y6/Alex-Morgan-CV.pdf?rlkey=z33hloc75vgkfvuuoa9s5u71s&dl=0)<br><br>
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/nrpr1yoix55y2a4z5t07p/Alex-Morgan-CV.pdf?rlkey=vo9rsx1ipig5mgmodfmqzsqd9&dl=0)<br><br>
 
 Many thanks,<br>
 Alex Morgan
