@@ -5,11 +5,12 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-Developer with knowledge of full stack web development. Bringing a strong personal background in IT (software & hardware), I seek a full time role within a company willing to provide exposure to a range of both new and long standing technologies as I undertake a part time degree in software engineering.
+I specialise in IT support and software engineering. I troubleshoot PC systems, repair, replace, and install new hardware. I am also familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
 
-If you have any open positions for a new developer to join your team, please contact me via phone or email. I'm available immediately.
+Please contact me via email or mobile if you would like to work with me.
+- I'm currently immediately available.
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/d8ly5xdoumezqvwx4w8ik/Alex-Morgan-CV.pdf?rlkey=0prwtq9b0d90h0b4o696ogg3a&dl=0)<br><br>
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/79t07t59pchnzbb8edkr2/Alex-Morgan-CV.pdf?rlkey=mqwdc4ee2gm217q1bowjbufqo&dl=0)<br><br>
 
 Many thanks,<br>
 Alex Morgan
