@@ -7,8 +7,8 @@
 
 I specialise in IT support and software engineering. I troubleshoot PC systems, repair, replace, and install new hardware. I am also familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
 
-Please contact me via email or mobile if you would like to work with me.
-- I'm currently immediately available.
+Please contact me via email or mobile if you would like to work with me.<br>
+~ I'm currently immediately available.
 
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/79t07t59pchnzbb8edkr2/Alex-Morgan-CV.pdf?rlkey=mqwdc4ee2gm217q1bowjbufqo&dl=0)<br><br>
 
