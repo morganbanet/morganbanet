@@ -5,7 +5,7 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-I specialise in IT support and software engineering. I troubleshoot PC systems, repair, replace, and install new hardware. I am also familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
+I specialise in IT and software engineering. I troubleshoot PC systems, repair, replace, and install new hardware. I am also familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
 
 Please contact me via email or mobile if you would like to work with me.<br>
 ~ I'm currently immediately available.
