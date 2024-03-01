@@ -1,11 +1,11 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Morgan&width=1000%&height=150)](https://github.com/Akshay090/svg-banners) -->
 
-<h1>I'm a software engineer</h1>
+<h1>I'm a web developer</h1>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-I specialise in IT and software engineering. I troubleshoot PC systems, repair, replace, and install new hardware. I am also familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
+I specialise in IT and web development. I am familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
 
 Please contact me via email or mobile if you would like to work with me.<br>
 ~ I'm currently immediately available.
