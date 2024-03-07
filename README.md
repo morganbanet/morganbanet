@@ -3,7 +3,7 @@
 <h1>IT & Software Development</h1>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="280px" />
 
 I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University.
 
