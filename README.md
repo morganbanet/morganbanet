@@ -3,7 +3,7 @@
 <h1>IT & Software Development</h1>
 
 <div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="280px" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="280px" />
 
 I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University.
 
