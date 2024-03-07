@@ -5,10 +5,12 @@
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
 
-I specialise in IT and web development. I am familiar with software development languages, libraries, and frameworks such as React, JavaScript, Express, Node.js, MongoDB, Puppeteer, Python, Git, and more.
+I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University.
+
+I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and more.
 
 Please contact me via email or mobile if you would like to work with me.<br>
-~ I'm currently immediately available.
+~ Currently open for work
 
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/qkk28vbl8lijrt31crxr1/Alex-Morgan-CV.pdf?rlkey=1wca5xdye1cdhvg7tq8gnz07b&dl=0)<br><br>
 
