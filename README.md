@@ -1,6 +1,6 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Morgan&width=1000%&height=150)](https://github.com/Akshay090/svg-banners) -->
 
-<h1>IT & Web Development</h1>
+<h1>IT & Software Development</h1>
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" height="280px" />
