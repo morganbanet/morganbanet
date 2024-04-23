@@ -12,8 +12,7 @@ I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, a
 Please contact me via email or mobile if you would like to work with me.<br>
 ~ Currently open for work
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/tmdweunaxkpzhxyouj3ob/alex_morgan_cv.pdf?rlkey=kht9rxeb9l8on3a8gsj09pyog&dl=0)<br><br>
-
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/tkagehib0svnmmfad7w2n/alex_morgan_cv_2024.pdf?rlkey=ap1f9t7g2o39kb2wkcp3ow95l&st=sq751r47&dl=0)<br><br>
 
 Many thanks,<br>
 Alex Morgan
