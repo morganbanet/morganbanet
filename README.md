@@ -13,6 +13,10 @@ Please contact me via email or mobile if you would like to work with me.<br>
 
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/tc78agqqx1njqrj6u2t05/alex_morgan_cv_2024.pdf?rlkey=btd8za7yuai590m2heamb3ecp&st=b6hd4yg1&dl=0)<br><br>
 
+Certifications:
+CompTIA ITF+ | May 2024
+CompTIA A+ | Currently studying
+
 Many thanks,<br>
 Alex Morgan
 </div>
