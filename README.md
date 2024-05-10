@@ -9,10 +9,7 @@ I specialize in IT & software development. Currently studying a BSc (Honours) Co
 
 I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and a few other languages, libraries, and frameworks.
 
-Please contact me via email or mobile if you would like to work with me.<br><br>
-
-Many thanks,<br>
-Alex Morgan
+Please contact me via the email or mobile on my CV if you would like to work with me.<br>
 
 <b>Certifications:</b> <br>
 CompTIA ITF+ | May 2024 <br>
