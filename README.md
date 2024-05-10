@@ -5,7 +5,7 @@
 <div>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="280px" />
 
-I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University, as well as CompTIA certificaitons.
+I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University, as well as IT related certifications (CompTIA).
 
 I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and a few other languages, libraries, and frameworks.
 
