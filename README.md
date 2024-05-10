@@ -18,7 +18,7 @@ CompTIA A+ | Currently studying
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/tc78agqqx1njqrj6u2t05/alex_morgan_cv_2024.pdf?rlkey=btd8za7yuai590m2heamb3ecp&st=b6hd4yg1&dl=0)<br>
 </div>
 
-<h2>GitHub Statistics</h2>
+<!-- <h2>GitHub Statistics</h2>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="199px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api?username=morganbanet&show_icons=true&hide_border=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
@@ -26,7 +26,7 @@ CompTIA A+ | Currently studying
   <a href="https://github.com/anuraghazra/convoychat">
   <img height="199px" align="center" src="https://github-readme-stats-morganbanet.vercel.app/api/top-langs/?username=morganbanet&layout=compact&hide_border=true&bg_color=343640&title_color=F4F4F4&text_color=DCDCDE&icon_color=FFFFFF" />
   </a>
-</div>
+</div> -->
 
 <h2></h2>
 
