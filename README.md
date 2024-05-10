@@ -5,14 +5,13 @@
 <div>
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="280px" />
 
-I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University.
+I specialize in IT & software development. Currently studying a BSc (Honours) Computing and IT (Software) degree at The Open University, as well as CompTIA certificaitons.
 
-I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and more.
+I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and a few other languages, libraries, and frameworks.
 
 Please contact me via email or mobile if you would like to work with me.<br>
-~ Currently open for work
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/tkagehib0svnmmfad7w2n/alex_morgan_cv_2024.pdf?rlkey=ap1f9t7g2o39kb2wkcp3ow95l&st=sq751r47&dl=0)<br><br>
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/tc78agqqx1njqrj6u2t05/alex_morgan_cv_2024.pdf?rlkey=btd8za7yuai590m2heamb3ecp&st=b6hd4yg1&dl=0)<br><br>
 
 Many thanks,<br>
 Alex Morgan
