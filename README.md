@@ -9,7 +9,7 @@ I specialize in IT & software development. Currently studying a BSc (Honours) Co
 
 I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and a few other languages, libraries, and frameworks.
 
-If enquiring about work related oppurtunities, please contact me via the email or mobile on my CV.<br>
+If enquiring about work related opportunities, please contact me via the email or mobile on my CV.<br>
 
 <b>Certifications:</b> <br>
 CompTIA ITF+ | May 2024 <br>
