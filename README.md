@@ -12,7 +12,7 @@ I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, a
 If enquiring about work related opportunities, please contact me via the email or mobile on my CV.<br>
 
 <b>Certifications:</b> <br>
-CompTIA ITF+ | May 2024 <br>
+[CompTIA ITF+](https://www.credly.com/badges/cc6ef485-2a0c-47ad-ad02-cd374db39ab1/public_url) | May 2024 <br>
 CompTIA A+ | Currently studying
 
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/tc78agqqx1njqrj6u2t05/alex_morgan_cv_2024.pdf?rlkey=btd8za7yuai590m2heamb3ecp&st=b6hd4yg1&dl=0)<br>
