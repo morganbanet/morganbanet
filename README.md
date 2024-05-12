@@ -11,6 +11,8 @@ I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, a
 
 If enquiring about work related opportunities, please contact me via the email or mobile on my CV.<br>
 
+Looking for my projects? Please take a look at the pinned repositories below.
+
 <b>Certifications:</b> <br>
 [CompTIA ITF+](https://www.credly.com/badges/cc6ef485-2a0c-47ad-ad02-cd374db39ab1/public_url) | May 2024 <br>
 CompTIA A+ | Currently studying
