@@ -17,7 +17,7 @@ Looking for my projects? Please take a look at the pinned repositories below.
 [CompTIA ITF+](https://www.credly.com/badges/cc6ef485-2a0c-47ad-ad02-cd374db39ab1/public_url) | May 2024 <br>
 CompTIA A+ | Currently studying
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/tc78agqqx1njqrj6u2t05/alex_morgan_cv_2024.pdf?rlkey=btd8za7yuai590m2heamb3ecp&st=b6hd4yg1&dl=0)<br>
+[Download CV (PDF)](https://dl.www.dropbox.com/scl/fi/tgg2ucug0n9axpfd4jtvw/Alex-Morgan-CV.pdf?rlkey=qhp9pxevkuh52xxrqzozwltk0&st=upspjkki&dl=0)<br>
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
