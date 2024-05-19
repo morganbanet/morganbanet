@@ -9,15 +9,13 @@ I specialize in IT & software development. Currently studying a BSc (Honours) Co
 
 I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, and a few other languages, libraries, and frameworks.
 
-If enquiring about work related opportunities, please contact me via the email or mobile on my CV: [Download CV (PDF)](https://dl.dropbox.com/scl/fi/cqfus16j4dgfzx1y35p5x/Alex-Morgan-CV.pdf?rlkey=ruuk9zo1lnabq9eax5eqzv4w9&st=e1o731s2&dl=0)<br>
+If enquiring about work related opportunities, please contact me via the email or mobile on my CV<br>
 
 Temporary note: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser responds with a warning.
 
-Looking for my projects? Please take a look at the pinned repositories below.<br>
+Looking for my projects? Please take a look at the pinned repositories below.
 
-<b>Certifications:</b> <br>
-[CompTIA ITF+](https://www.credly.com/badges/cc6ef485-2a0c-47ad-ad02-cd374db39ab1/public_url) | May 2024 <br>
-CompTIA A+ | Currently studying
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/cqfus16j4dgfzx1y35p5x/Alex-Morgan-CV.pdf?rlkey=ruuk9zo1lnabq9eax5eqzv4w9&st=e1o731s2&dl=0)
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
