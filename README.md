@@ -19,7 +19,7 @@ CompTIA A+ | Currently studying
 
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/cqfus16j4dgfzx1y35p5x/Alex-Morgan-CV.pdf?rlkey=ruuk9zo1lnabq9eax5eqzv4w9&st=e1o731s2&dl=0)<br>
 
-Temporary: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser responds with a warning.
+Temporary note: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser responds with a warning.
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
