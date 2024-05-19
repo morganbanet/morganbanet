@@ -11,7 +11,7 @@ I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, a
 
 If enquiring about work related opportunities, please contact me via the email or mobile on my CV<br>
 
-Temporary note: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser responds with a warning.
+Temporary note: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser issues a warning.
 
 Looking for my projects? Please take a look at the pinned repositories below.
 
