@@ -17,7 +17,9 @@ Looking for my projects? Please take a look at the pinned repositories below.
 [CompTIA ITF+](https://www.credly.com/badges/cc6ef485-2a0c-47ad-ad02-cd374db39ab1/public_url) | May 2024 <br>
 CompTIA A+ | Currently studying
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/tgg2ucug0n9axpfd4jtvw/Alex-Morgan-CV.pdf?rlkey=qhp9pxevkuh52xxrqzozwltk0&st=upspjkki&dl=0)<br>
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/cqfus16j4dgfzx1y35p5x/Alex-Morgan-CV.pdf?rlkey=ruuk9zo1lnabq9eax5eqzv4w9&st=e1o731s2&dl=0)<br>
+
+Temporary: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser responds with a warning.
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
