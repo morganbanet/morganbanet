@@ -11,11 +11,9 @@ I'm familiar with React, JavaScript, Node.js, MongoDB, Puppeteer, Python, Git, a
 
 If enquiring about work related opportunities, please contact me via the email or mobile on my CV<br>
 
-Temporary note: The certificate on my website www.morganba.com needs renewing. It is safe to proceed if the browser issues a warning.
-
 Looking for my projects? Please take a look at the pinned repositories below.
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/cqfus16j4dgfzx1y35p5x/Alex-Morgan-CV.pdf?rlkey=ruuk9zo1lnabq9eax5eqzv4w9&st=e1o731s2&dl=0)
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/29vnu3befteeoejgli3j2/Alex-Morgan-CV.pdf?rlkey=1vnzgae6rv4wqezi4wn0pzg5b&st=2chjau01&dl=0)
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
