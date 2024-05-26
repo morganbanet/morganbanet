@@ -1,6 +1,6 @@
 <!-- [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Alex%20Morgan&width=1000%&height=150)](https://github.com/Akshay090/svg-banners) -->
 
-<h1>Alex Morgan</h1>
+<h1>About</h1>
 
 <div>
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="280px" /> -->
