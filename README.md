@@ -13,7 +13,7 @@ If enquiring about work related opportunities, please contact me via the email o
 
 Looking for my projects? Please take a look at the pinned repositories below.
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/29vnu3befteeoejgli3j2/Alex-Morgan-CV.pdf?rlkey=1vnzgae6rv4wqezi4wn0pzg5b&st=2chjau01&dl=0)
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/hsoqo19nh20om54fy3ays/Alex-Morgan-CV.pdf?rlkey=5v9355svhijthr73mfrpurbzf&st=ltq3zk3i&dl=0)
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
