@@ -7,7 +7,7 @@
 
 Alex Morgan is an IT specialist based in Hampshire, currently pursuing a Bachelor's in Computing and IT from The Open University. His studies encompass a wide range of modules, including Algorithms & Data Structures, Managing IT, Mobile & Cloud Technologies, and Machine Learning & Artificial Intelligence. With a passion for continuous learning, Alex is always looking to tackle new challenges and advance his expertise in the ever-evolving tech landscape. Dedicated to collaboration and problem-solving, he is always open to connect and discuss new concepts and solutions.
 
-[Download CV (PDF)](https://dl.dropbox.com/scl/fi/wsag55m84cwuiwjtpm3xb/Alex-Morgan-CV.pdf?rlkey=75jp40f8hdbqfru4a83xlylao&st=831czz2n&dl=0)
+[Download CV (PDF)](https://dl.dropbox.com/scl/fi/bb2ljnscnie981idwdq50/Alex-Morgan-CV.pdf?rlkey=7j9kcclwf9s1o4ti1u4lftupa&st=3d94jvc4&dl=0)
 </div>
 
 <!-- <h2>GitHub Statistics</h2>
