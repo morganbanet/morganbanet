@@ -5,7 +5,7 @@
 <div>
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="280px" /> -->
 
-Alex Morgan is an IT specialist based in Hampshire, currently pursuing a Bachelor's in Computing and IT from The Open University. His studies encompass a wide range of modules, including Algorithms & Data Structures, Managing IT, Mobile & Cloud Technologies, and Machine Learning & Artificial Intelligence. With a passion for continuous learning, Alex is always looking to tackle new challenges and advance his expertise within the continuously growing tech industry.
+Alex Morgan is an IT specialist based in Hampshire, currently pursuing a Bachelor's in Computing and IT from The Open University. His studies encompass a wide range of modules, including Algorithms & Data Structures, Managing IT, Mobile & Cloud Technologies, and Machine Learning & Artificial Intelligence. With a passion for continuous learning, Alex is always looking to tackle new challenges and advance his expertise within the continuously evolving tech industry.
 
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/k56q3phpr95t49f7l9lct/Alex-Morgan-CV.pdf?rlkey=3my36k85peyqpovdyfwsc4tov&st=wbx0ezcc&dl=0)
 </div>
