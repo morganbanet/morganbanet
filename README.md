@@ -13,9 +13,10 @@ I am currently open to work. If you have any software developer roles or IT supp
 
 
 
-Thank you,
+Thank you, <br>
 Alex Morgan
 
+<br>
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/9nyqkd6geu3auqy5u66u0/Alex-Morgan-CV-2026.pdf?rlkey=xrgl7g2xbnc9x798swh1pkx5t&st=gvvlew53&dl=0)
 </div>
 
