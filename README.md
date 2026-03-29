@@ -5,7 +5,7 @@
 <div>
 <!-- <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" height="280px" /> -->
 
-I am primarily a software developer but am also a certified IT support engineer.
+I am primarily a software developer, however I also hold a few certifications in IT Support.
 
 I'm currently studying a bachelors in computer science (software engineering) and am on my second year. It is remote and is part time, and I get to study on my own schedule. This means I am available for any full time roles. Do not ask me to drop my degree for you.
 
