@@ -4,7 +4,7 @@ I am primarily a software developer, however I also hold a few certifications in
 
 I'm currently studying a bachelors in computer science (software engineering) and am on my second year. It is remote and is part time, and I get to study on my own schedule. This means I am available for any full time roles. Do not ask me to drop my degree for you.
 
-I am currently open to work. If you have any software developer roles or IT support roles you think I would be a good fit for, then please contact me via my email or mobile number. I'll get back to you when I can.
+I am currently open to work. If you have any software developer roles or IT support roles you think I would be a good fit for, then please contact me via my email or mobile number. I'll get back to you as soon as I can.
 <br><br><br>
 
 Thank you, <br>
