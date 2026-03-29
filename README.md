@@ -11,6 +11,11 @@ I'm currently studying a bachelors in computer science (software engineering) an
 
 I am currently open to work. If you have any software developer roles or IT support roles you think I would be a good fit for, then please contact me via my email or mobile number. I'll get back to you when I can.
 
+
+
+Thank you,
+Alex Morgan
+
 [Download CV (PDF)](https://dl.dropbox.com/scl/fi/9nyqkd6geu3auqy5u66u0/Alex-Morgan-CV-2026.pdf?rlkey=xrgl7g2xbnc9x798swh1pkx5t&st=gvvlew53&dl=0)
 </div>
 
